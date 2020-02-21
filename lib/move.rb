@@ -19,7 +19,7 @@ end
 
 def move(array, index, value)
   array[index] = value
-en
+end
 
 move(board, index, "X")
 
