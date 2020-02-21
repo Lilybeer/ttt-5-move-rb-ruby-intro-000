@@ -9,9 +9,9 @@ display_board(board)
 
 puts "Where would you like to go?"
 
-#index = gets.strip
+index = gets.strip
 
-#input_to_index(index.to_i)
+input_to_index(index.to_i)
 
 #move(board, index, "X")
 
