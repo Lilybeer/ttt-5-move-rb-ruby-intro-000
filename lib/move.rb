@@ -20,10 +20,10 @@ end
 
 puts index
 
-def move(array, index.to_i, value)
-  array[index.to_i] = value
-end
+#def move(array, index.to_i, value)
+  #array[index.to_i] = value
+#end
 
-move(board, index.to_i, "X")
+#move(board, index.to_i, "X")
 
-board
+#board
