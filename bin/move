@@ -13,7 +13,6 @@ index = gets.strip
 
 input_to_index(index)
 
-puts index
 
 #move(board, index, "X")
 
