@@ -9,8 +9,8 @@ display_board(board)
 
 puts "Where would you like to go?"
 
-array = board
 index = gets.strip
-value = "X"
+
+move(board, index, "X")
 
 puts display_board(board)
