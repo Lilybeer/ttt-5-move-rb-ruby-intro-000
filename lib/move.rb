@@ -12,15 +12,15 @@ end
 
 
 
-def input_to_index(index)
-  puts index - 1
-end
+#def input_to_index(index)
+  #puts index - 1
+#end
 
 
-def move(array, index, value)
-  array[index] = value
-end
+#def move(array, index, value)
+  #array[index] = value
+#end
 
-move(board, index, "X")
+#move(board, index, "X")
 
-board
+#board
