@@ -25,4 +25,4 @@ end
 
 move(board, index.to_i, "X")
 
-#board
+board
