@@ -13,6 +13,6 @@ index = gets.strip
 
 
 index = input_to_index(index)
-move(board, index, value)
+move(board, index)
 
 puts display_board(board)
