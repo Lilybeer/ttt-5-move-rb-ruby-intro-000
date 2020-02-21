@@ -12,3 +12,5 @@ index = gets.strip
 input_to_index(index.to_i)
 
 move(board, index, "X")
+
+display_board(board)
