@@ -19,9 +19,9 @@ def input_to_index(index)
 end
 
 
-#def move(array, index, value)
-  #array[index] = value
-#end
+def move(array, index, value)
+  array[index] = value
+end
 
 #move(board, index, "X")
 
