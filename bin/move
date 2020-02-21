@@ -15,4 +15,4 @@ input_to_index(index.to_i)
 
 move(board, index, "X")
 
-#display_board(board)
+display_board(board)
