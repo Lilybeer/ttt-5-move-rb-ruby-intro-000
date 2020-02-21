@@ -20,9 +20,9 @@ end
 
 
 def move(array, index.to_i, value)
-  #array[index.to_i] = value
-#end
+  array[index.to_i] = value
+end
 
-#move(board, index, "X")
+move(board, index.to_i, "X")
 
 #board
