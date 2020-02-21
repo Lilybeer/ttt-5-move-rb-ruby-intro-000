@@ -15,9 +15,14 @@ puts "Where would you like to go?"
 
 
 def input_to_index(index)
-  puts 5 + 1
+  puts index - 1
 end
+
 
 def move(array, index, value)
   array[index] = value
 end
+
+move(board, index, "X")
+
+board
