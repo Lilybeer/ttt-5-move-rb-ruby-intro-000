@@ -26,4 +26,4 @@ end
 
 move(board, index, "X")
 
-#board
+board
