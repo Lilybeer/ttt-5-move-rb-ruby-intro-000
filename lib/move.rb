@@ -14,9 +14,9 @@ end
 
 
 
-#def input_to_index(index)
-  #puts index - 1
-#end
+def input_to_index(index)
+  puts index - 1
+end
 
 
 #def move(array, index, value)
