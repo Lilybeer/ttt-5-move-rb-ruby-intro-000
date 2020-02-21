@@ -18,8 +18,6 @@ def input_to_index(index)
   puts index.to_i - 1
 end
 
-puts index
-
 def move(array, index.to_i, value)
   array[index.to_i] = value
 end
