@@ -24,6 +24,6 @@ def move(array, index, value)
   array[index] = value
 end
 
-#move(board, index.to_i, "X")
+#move(board, index, "X")
 
 #board
